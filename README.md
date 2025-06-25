@@ -27,4 +27,12 @@ Stat:📈
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahid200620/LeetCode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shahid200620/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shahid200620/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
