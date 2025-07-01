@@ -16,6 +16,7 @@ Stat:📈
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahid200620/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid200620/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shahid200620/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3617-find-the-original-typed-string-i](https://github.com/shahid200620/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |
 | ------- |
