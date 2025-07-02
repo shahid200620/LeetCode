@@ -17,6 +17,7 @@ Stat:📈
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid200620/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shahid200620/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/shahid200620/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/shahid200620/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Stat:📈
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shahid200620/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/shahid200620/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -88,4 +90,8 @@ Stat:📈
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid200620/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/shahid200620/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
