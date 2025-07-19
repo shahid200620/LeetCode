@@ -17,6 +17,7 @@ Stat:📈
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahid200620/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid200620/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shahid200620/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3396-valid-word](https://github.com/shahid200620/LeetCode/tree/master/3396-valid-word) |
@@ -50,6 +51,7 @@ Stat:📈
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/shahid200620/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shahid200620/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shahid200620/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid200620/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -151,4 +153,12 @@ Stat:📈
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shahid200620/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
