@@ -18,6 +18,7 @@ Stat:📈
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahid200620/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/shahid200620/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid200620/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shahid200620/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
