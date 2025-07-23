@@ -11,6 +11,7 @@ Stat:📈
 | [1510-find-lucky-integer-in-an-array](https://github.com/shahid200620/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/shahid200620/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shahid200620/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shahid200620/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahid200620/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/shahid200620/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2479-meeting-rooms-iii](https://github.com/shahid200620/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -20,6 +21,7 @@ Stat:📈
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahid200620/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shahid200620/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shahid200620/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid200620/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shahid200620/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3396-valid-word](https://github.com/shahid200620/LeetCode/tree/master/3396-valid-word) |
@@ -61,6 +63,7 @@ Stat:📈
 | [1813-maximum-erasure-value](https://github.com/shahid200620/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shahid200620/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shahid200620/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shahid200620/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shahid200620/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahid200620/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/shahid200620/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -165,4 +168,9 @@ Stat:📈
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shahid200620/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/shahid200620/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
