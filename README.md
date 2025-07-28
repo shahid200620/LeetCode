@@ -7,6 +7,7 @@ Stat:📈
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahid200620/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/shahid200620/LeetCode/tree/master/0127-word-ladder) |
 | [0594-longest-harmonious-subsequence](https://github.com/shahid200620/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shahid200620/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/shahid200620/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -20,6 +21,7 @@ Stat:📈
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahid200620/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/shahid200620/LeetCode/tree/master/0127-word-ladder) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shahid200620/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shahid200620/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -203,4 +205,8 @@ Stat:📈
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shahid200620/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/shahid200620/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
