@@ -74,6 +74,7 @@ Stat:📈
 | [0004-median-of-two-sorted-arrays](https://github.com/shahid200620/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/shahid200620/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shahid200620/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shahid200620/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shahid200620/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/shahid200620/LeetCode/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/shahid200620/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -190,6 +191,7 @@ Stat:📈
 | [0016-3sum-closest](https://github.com/shahid200620/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shahid200620/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shahid200620/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shahid200620/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid200620/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shahid200620/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
