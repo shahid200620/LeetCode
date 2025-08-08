@@ -60,6 +60,7 @@ Stat:📈
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahid200620/LeetCode/tree/master/0002-add-two-numbers) |
+| [0826-soup-servings](https://github.com/shahid200620/LeetCode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shahid200620/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shahid200620/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shahid200620/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -137,6 +138,7 @@ Stat:📈
 | [0010-regular-expression-matching](https://github.com/shahid200620/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/shahid200620/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shahid200620/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0826-soup-servings](https://github.com/shahid200620/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shahid200620/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shahid200620/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/shahid200620/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -292,4 +294,8 @@ Stat:📈
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/shahid200620/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/shahid200620/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
