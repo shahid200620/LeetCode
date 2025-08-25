@@ -97,6 +97,7 @@ Stat:📈
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahid200620/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shahid200620/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/shahid200620/LeetCode/tree/master/0135-candy) |
+| [0498-diagonal-traverse](https://github.com/shahid200620/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/shahid200620/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/shahid200620/LeetCode/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shahid200620/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -267,6 +268,7 @@ Stat:📈
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/shahid200620/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2479-meeting-rooms-iii](https://github.com/shahid200620/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shahid200620/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/shahid200620/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -332,6 +334,7 @@ Stat:📈
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/shahid200620/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shahid200620/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shahid200620/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/shahid200620/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
