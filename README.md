@@ -9,6 +9,7 @@ Stat:📈
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahid200620/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shahid200620/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/shahid200620/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/shahid200620/LeetCode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/shahid200620/LeetCode/tree/master/0127-word-ladder) |
 | [0594-longest-harmonious-subsequence](https://github.com/shahid200620/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/shahid200620/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -97,6 +98,7 @@ Stat:📈
 | [0018-4sum](https://github.com/shahid200620/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahid200620/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/shahid200620/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/shahid200620/LeetCode/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/shahid200620/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/shahid200620/LeetCode/tree/master/0135-candy) |
 | [0498-diagonal-traverse](https://github.com/shahid200620/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -208,6 +210,7 @@ Stat:📈
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shahid200620/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/shahid200620/LeetCode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/shahid200620/LeetCode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid200620/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shahid200620/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -343,6 +346,7 @@ Stat:📈
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shahid200620/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/shahid200620/LeetCode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/shahid200620/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shahid200620/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shahid200620/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
