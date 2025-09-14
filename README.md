@@ -14,6 +14,7 @@ Stat:📈
 | [0594-longest-harmonious-subsequence](https://github.com/shahid200620/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/shahid200620/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/shahid200620/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/shahid200620/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shahid200620/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/shahid200620/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/shahid200620/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -33,6 +34,7 @@ Stat:📈
 | [0010-regular-expression-matching](https://github.com/shahid200620/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shahid200620/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/shahid200620/LeetCode/tree/master/0127-word-ladder) |
+| [1006-vowel-spellchecker](https://github.com/shahid200620/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shahid200620/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shahid200620/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -117,6 +119,7 @@ Stat:📈
 | [0679-24-game](https://github.com/shahid200620/LeetCode/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shahid200620/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/shahid200620/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/shahid200620/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shahid200620/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shahid200620/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
