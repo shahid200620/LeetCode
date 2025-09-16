@@ -85,6 +85,7 @@ Stat:📈
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shahid200620/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shahid200620/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/shahid200620/LeetCode/tree/master/1448-maximum-69-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shahid200620/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shahid200620/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shahid200620/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shahid200620/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -141,6 +142,7 @@ Stat:📈
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/shahid200620/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/shahid200620/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/shahid200620/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shahid200620/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/shahid200620/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/shahid200620/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shahid200620/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -342,6 +344,7 @@ Stat:📈
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/shahid200620/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shahid200620/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shahid200620/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -414,4 +417,8 @@ Stat:📈
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/shahid200620/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/shahid200620/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
