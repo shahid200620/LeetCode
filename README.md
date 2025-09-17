@@ -23,6 +23,7 @@ Stat:📈
 | [2079-delete-duplicate-folders-in-system](https://github.com/shahid200620/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahid200620/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/shahid200620/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2429-design-a-food-rating-system](https://github.com/shahid200620/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/shahid200620/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/shahid200620/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/shahid200620/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -44,6 +45,7 @@ Stat:📈
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid200620/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shahid200620/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shahid200620/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/shahid200620/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/shahid200620/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/shahid200620/LeetCode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/shahid200620/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -145,6 +147,7 @@ Stat:📈
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shahid200620/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/shahid200620/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/shahid200620/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/shahid200620/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shahid200620/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/shahid200620/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shahid200620/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -279,6 +282,7 @@ Stat:📈
 | [1917-maximum-average-pass-ratio](https://github.com/shahid200620/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahid200620/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/shahid200620/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/shahid200620/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/shahid200620/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Two Pointers
 |  |
@@ -324,6 +328,7 @@ Stat:📈
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shahid200620/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/shahid200620/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -381,6 +386,7 @@ Stat:📈
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/shahid200620/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/shahid200620/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
