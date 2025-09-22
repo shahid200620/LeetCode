@@ -27,6 +27,7 @@ Stat:📈
 | [2429-design-a-food-rating-system](https://github.com/shahid200620/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/shahid200620/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/shahid200620/LeetCode/tree/master/2689-rearranging-fruits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/shahid200620/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/shahid200620/LeetCode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/shahid200620/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/shahid200620/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -161,6 +162,7 @@ Stat:📈
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shahid200620/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/shahid200620/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/shahid200620/LeetCode/tree/master/2689-rearranging-fruits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/shahid200620/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shahid200620/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shahid200620/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shahid200620/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -198,6 +200,7 @@ Stat:📈
 | [1510-find-lucky-integer-in-an-array](https://github.com/shahid200620/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid200620/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/shahid200620/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/shahid200620/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shahid200620/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
