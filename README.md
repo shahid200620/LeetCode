@@ -11,6 +11,7 @@ Stat:📈
 | [0036-valid-sudoku](https://github.com/shahid200620/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shahid200620/LeetCode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/shahid200620/LeetCode/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shahid200620/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/shahid200620/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/shahid200620/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/shahid200620/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -41,6 +42,7 @@ Stat:📈
 | [0010-regular-expression-matching](https://github.com/shahid200620/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shahid200620/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/shahid200620/LeetCode/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shahid200620/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/shahid200620/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shahid200620/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shahid200620/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -83,6 +85,7 @@ Stat:📈
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahid200620/LeetCode/tree/master/0002-add-two-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shahid200620/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/shahid200620/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shahid200620/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shahid200620/LeetCode/tree/master/0342-power-of-four) |
