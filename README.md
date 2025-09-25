@@ -127,6 +127,7 @@ Stat:📈
 | [0036-valid-sudoku](https://github.com/shahid200620/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shahid200620/LeetCode/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/shahid200620/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/shahid200620/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/shahid200620/LeetCode/tree/master/0135-candy) |
 | [0498-diagonal-traverse](https://github.com/shahid200620/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/shahid200620/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -211,6 +212,7 @@ Stat:📈
 | [0005-longest-palindromic-substring](https://github.com/shahid200620/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shahid200620/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/shahid200620/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/shahid200620/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shahid200620/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0826-soup-servings](https://github.com/shahid200620/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/shahid200620/LeetCode/tree/master/0867-new-21-game) |
