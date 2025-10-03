@@ -134,6 +134,7 @@ Stat:📈
 | [0118-pascals-triangle](https://github.com/shahid200620/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shahid200620/LeetCode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/shahid200620/LeetCode/tree/master/0135-candy) |
+| [0407-trapping-rain-water-ii](https://github.com/shahid200620/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/shahid200620/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/shahid200620/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/shahid200620/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -311,6 +312,7 @@ Stat:📈
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shahid200620/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0407-trapping-rain-water-ii](https://github.com/shahid200620/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shahid200620/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/shahid200620/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/shahid200620/LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -407,6 +409,7 @@ Stat:📈
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shahid200620/LeetCode/tree/master/0127-word-ladder) |
+| [0407-trapping-rain-water-ii](https://github.com/shahid200620/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -439,6 +442,7 @@ Stat:📈
 | ------- |
 | [0036-valid-sudoku](https://github.com/shahid200620/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shahid200620/LeetCode/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/shahid200620/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/shahid200620/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shahid200620/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shahid200620/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
