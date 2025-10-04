@@ -126,6 +126,7 @@ Stat:📈
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shahid200620/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shahid200620/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shahid200620/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shahid200620/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahid200620/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -247,6 +248,7 @@ Stat:📈
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shahid200620/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/shahid200620/LeetCode/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/shahid200620/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/shahid200620/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -325,6 +327,7 @@ Stat:📈
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shahid200620/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/shahid200620/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shahid200620/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shahid200620/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shahid200620/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
