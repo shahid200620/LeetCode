@@ -54,6 +54,7 @@ Stat:📈
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shahid200620/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/shahid200620/LeetCode/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shahid200620/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0474-ones-and-zeroes](https://github.com/shahid200620/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/shahid200620/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shahid200620/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shahid200620/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -169,6 +170,7 @@ Stat:📈
 | [0135-candy](https://github.com/shahid200620/LeetCode/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/shahid200620/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shahid200620/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/shahid200620/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/shahid200620/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/shahid200620/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/shahid200620/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -297,6 +299,7 @@ Stat:📈
 | [0118-pascals-triangle](https://github.com/shahid200620/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shahid200620/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shahid200620/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0474-ones-and-zeroes](https://github.com/shahid200620/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/shahid200620/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/shahid200620/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shahid200620/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
