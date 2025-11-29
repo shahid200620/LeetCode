@@ -146,6 +146,7 @@ Stat:📈
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shahid200620/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/shahid200620/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/shahid200620/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shahid200620/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shahid200620/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shahid200620/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shahid200620/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -258,6 +259,7 @@ Stat:📈
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shahid200620/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/shahid200620/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shahid200620/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shahid200620/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shahid200620/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shahid200620/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shahid200620/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
