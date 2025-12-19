@@ -440,6 +440,7 @@ Stat:📈
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shahid200620/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid200620/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shahid200620/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/shahid200620/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shahid200620/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shahid200620/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shahid200620/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -562,6 +563,7 @@ Stat:📈
 | [0794-swim-in-rising-water](https://github.com/shahid200620/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shahid200620/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/shahid200620/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/shahid200620/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/shahid200620/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/shahid200620/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -601,6 +603,7 @@ Stat:📈
 | [0417-pacific-atlantic-water-flow](https://github.com/shahid200620/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/shahid200620/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shahid200620/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/shahid200620/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/shahid200620/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -695,6 +698,7 @@ Stat:📈
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/shahid200620/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/shahid200620/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/shahid200620/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
@@ -704,5 +708,6 @@ Stat:📈
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/shahid200620/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/shahid200620/LeetCode/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
