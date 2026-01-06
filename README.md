@@ -97,6 +97,7 @@ Stat:📈
 | [3617-find-the-original-typed-string-i](https://github.com/shahid200620/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/shahid200620/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shahid200620/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/shahid200620/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3797-design-spreadsheet](https://github.com/shahid200620/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shahid200620/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -534,6 +535,7 @@ Stat:📈
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shahid200620/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shahid200620/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shahid200620/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3794-reverse-string-prefix](https://github.com/shahid200620/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
