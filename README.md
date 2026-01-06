@@ -610,6 +610,7 @@ Stat:📈
 | [0124-binary-tree-maximum-path-sum](https://github.com/shahid200620/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shahid200620/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/shahid200620/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shahid200620/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shahid200620/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shahid200620/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -638,6 +639,7 @@ Stat:📈
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shahid200620/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shahid200620/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/shahid200620/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/shahid200620/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Segment Tree
@@ -652,6 +654,7 @@ Stat:📈
 | [0407-trapping-rain-water-ii](https://github.com/shahid200620/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shahid200620/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/shahid200620/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shahid200620/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shahid200620/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shahid200620/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/shahid200620/LeetCode/tree/master/2092-find-all-people-with-secret) |
@@ -660,6 +663,7 @@ Stat:📈
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shahid200620/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shahid200620/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
