@@ -296,6 +296,7 @@ Stat:📈
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shahid200620/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shahid200620/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/shahid200620/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/shahid200620/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/shahid200620/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shahid200620/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shahid200620/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -350,6 +351,7 @@ Stat:📈
 | [2618-maximize-the-minimum-powered-city](https://github.com/shahid200620/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shahid200620/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/shahid200620/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/shahid200620/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shahid200620/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shahid200620/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shahid200620/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -661,6 +663,7 @@ Stat:📈
 ## Segment Tree
 |  |
 | ------- |
+| [3454-separate-squares-ii](https://github.com/shahid200620/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shahid200620/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/shahid200620/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Breadth-First Search
@@ -793,4 +796,8 @@ Stat:📈
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/shahid200620/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/shahid200620/LeetCode/tree/master/3863-power-grid-maintenance) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/shahid200620/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
