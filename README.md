@@ -221,6 +221,7 @@ Stat:📈
 | [0611-valid-triangle-number](https://github.com/shahid200620/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/shahid200620/LeetCode/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shahid200620/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shahid200620/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shahid200620/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/shahid200620/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/shahid200620/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -355,6 +356,7 @@ Stat:📈
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shahid200620/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0611-valid-triangle-number](https://github.com/shahid200620/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shahid200620/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/shahid200620/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shahid200620/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/shahid200620/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
