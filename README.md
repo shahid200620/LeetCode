@@ -70,6 +70,7 @@ Stat:📈
 | [0005-longest-palindromic-substring](https://github.com/shahid200620/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shahid200620/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shahid200620/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/shahid200620/LeetCode/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/shahid200620/LeetCode/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shahid200620/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/shahid200620/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -146,6 +147,7 @@ Stat:📈
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahid200620/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/shahid200620/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shahid200620/LeetCode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shahid200620/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/shahid200620/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shahid200620/LeetCode/tree/master/0326-power-of-three) |
@@ -619,6 +621,7 @@ Stat:📈
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shahid200620/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/shahid200620/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shahid200620/LeetCode/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/shahid200620/LeetCode/tree/master/0756-pyramid-transition-matrix) |
@@ -643,6 +646,7 @@ Stat:📈
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shahid200620/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/shahid200620/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/shahid200620/LeetCode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shahid200620/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
