@@ -497,6 +497,7 @@ Stat:📈
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shahid200620/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shahid200620/LeetCode/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/shahid200620/LeetCode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/shahid200620/LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/shahid200620/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shahid200620/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -625,6 +626,7 @@ Stat:📈
 | [0190-reverse-bits](https://github.com/shahid200620/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/shahid200620/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shahid200620/LeetCode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/shahid200620/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/shahid200620/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shahid200620/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shahid200620/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
