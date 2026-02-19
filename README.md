@@ -74,6 +74,7 @@ Stat:📈
 | [0127-word-ladder](https://github.com/shahid200620/LeetCode/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shahid200620/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/shahid200620/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/shahid200620/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/shahid200620/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/shahid200620/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/shahid200620/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -592,6 +593,7 @@ Stat:📈
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shahid200620/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahid200620/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/shahid200620/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/shahid200620/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shahid200620/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahid200620/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shahid200620/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
