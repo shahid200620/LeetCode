@@ -691,6 +691,7 @@ Stat:📈
 | [0417-pacific-atlantic-water-flow](https://github.com/shahid200620/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/shahid200620/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shahid200620/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shahid200620/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shahid200620/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shahid200620/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -725,6 +726,7 @@ Stat:📈
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shahid200620/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shahid200620/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shahid200620/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shahid200620/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shahid200620/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/shahid200620/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -756,6 +758,7 @@ Stat:📈
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shahid200620/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shahid200620/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shahid200620/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shahid200620/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shahid200620/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/shahid200620/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
