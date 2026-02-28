@@ -168,6 +168,7 @@ Stat:📈
 | [1448-maximum-69-number](https://github.com/shahid200620/LeetCode/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shahid200620/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/shahid200620/LeetCode/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shahid200620/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shahid200620/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/shahid200620/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shahid200620/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -634,6 +635,7 @@ Stat:📈
 | [0868-binary-gap](https://github.com/shahid200620/LeetCode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shahid200620/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shahid200620/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shahid200620/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shahid200620/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shahid200620/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shahid200620/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -656,6 +658,7 @@ Stat:📈
 | [0067-add-binary](https://github.com/shahid200620/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/shahid200620/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/shahid200620/LeetCode/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shahid200620/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shahid200620/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/shahid200620/LeetCode/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shahid200620/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
