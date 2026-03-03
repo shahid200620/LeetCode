@@ -84,6 +84,7 @@ Stat:📈
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shahid200620/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shahid200620/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shahid200620/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shahid200620/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shahid200620/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shahid200620/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shahid200620/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -207,6 +208,7 @@ Stat:📈
 | [0231-power-of-two](https://github.com/shahid200620/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shahid200620/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shahid200620/LeetCode/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shahid200620/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shahid200620/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shahid200620/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Array
@@ -661,6 +663,7 @@ Stat:📈
 | ------- |
 | [0067-add-binary](https://github.com/shahid200620/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/shahid200620/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shahid200620/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/shahid200620/LeetCode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shahid200620/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shahid200620/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
