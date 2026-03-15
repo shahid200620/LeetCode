@@ -175,6 +175,7 @@ Stat:📈
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shahid200620/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shahid200620/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/shahid200620/LeetCode/tree/master/1448-maximum-69-number) |
+| [1622-fancy-sequence](https://github.com/shahid200620/LeetCode/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shahid200620/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/shahid200620/LeetCode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shahid200620/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -711,6 +712,7 @@ Stat:📈
 ## Design
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/shahid200620/LeetCode/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shahid200620/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/shahid200620/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/shahid200620/LeetCode/tree/master/2169-simple-bank-system) |
@@ -769,6 +771,7 @@ Stat:📈
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/shahid200620/LeetCode/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/shahid200620/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shahid200620/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shahid200620/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
