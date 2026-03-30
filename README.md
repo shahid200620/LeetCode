@@ -42,6 +42,7 @@ Stat:📈
 | [2479-meeting-rooms-iii](https://github.com/shahid200620/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shahid200620/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/shahid200620/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shahid200620/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shahid200620/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shahid200620/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/shahid200620/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -110,6 +111,7 @@ Stat:📈
 | [2483-minimum-penalty-for-a-shop](https://github.com/shahid200620/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2573-find-the-string-with-lcp](https://github.com/shahid200620/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shahid200620/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shahid200620/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/shahid200620/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shahid200620/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shahid200620/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -602,6 +604,7 @@ Stat:📈
 | [2479-meeting-rooms-iii](https://github.com/shahid200620/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shahid200620/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/shahid200620/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shahid200620/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/shahid200620/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shahid200620/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shahid200620/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
