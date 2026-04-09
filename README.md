@@ -394,6 +394,7 @@ Stat:📈
 | [3651-minimum-cost-path-with-teleportations](https://github.com/shahid200620/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/shahid200620/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shahid200620/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/shahid200620/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shahid200620/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shahid200620/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/shahid200620/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -871,6 +872,7 @@ Stat:📈
 | [0190-reverse-bits](https://github.com/shahid200620/LeetCode/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/shahid200620/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shahid200620/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/shahid200620/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shahid200620/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shahid200620/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
