@@ -182,6 +182,7 @@ Stat:📈
 | [0342-power-of-four](https://github.com/shahid200620/LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/shahid200620/LeetCode/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/shahid200620/LeetCode/tree/master/0679-24-game) |
+| [0788-rotated-digits](https://github.com/shahid200620/LeetCode/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/shahid200620/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/shahid200620/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/shahid200620/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -501,6 +502,7 @@ Stat:📈
 | [0124-binary-tree-maximum-path-sum](https://github.com/shahid200620/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0396-rotate-function](https://github.com/shahid200620/LeetCode/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/shahid200620/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0788-rotated-digits](https://github.com/shahid200620/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/shahid200620/LeetCode/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/shahid200620/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/shahid200620/LeetCode/tree/master/0867-new-21-game) |
