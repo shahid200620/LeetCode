@@ -86,6 +86,7 @@ Stat:📈
 | [0657-robot-return-to-origin](https://github.com/shahid200620/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/shahid200620/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/shahid200620/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0796-rotate-string](https://github.com/shahid200620/LeetCode/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/shahid200620/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/shahid200620/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/shahid200620/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1096,5 +1097,6 @@ Stat:📈
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/shahid200620/LeetCode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shahid200620/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
