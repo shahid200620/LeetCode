@@ -175,6 +175,7 @@ Stat:📈
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahid200620/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/shahid200620/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shahid200620/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shahid200620/LeetCode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shahid200620/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -257,6 +258,7 @@ Stat:📈
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahid200620/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/shahid200620/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shahid200620/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/shahid200620/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shahid200620/LeetCode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/shahid200620/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shahid200620/LeetCode/tree/master/0118-pascals-triangle) |
@@ -953,6 +955,7 @@ Stat:📈
 | ------- |
 | [0036-valid-sudoku](https://github.com/shahid200620/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shahid200620/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/shahid200620/LeetCode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/shahid200620/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/shahid200620/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shahid200620/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
