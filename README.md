@@ -429,6 +429,7 @@ Stat:📈
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/shahid200620/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shahid200620/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shahid200620/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3660-jump-game-ix](https://github.com/shahid200620/LeetCode/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/shahid200620/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shahid200620/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/shahid200620/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -549,6 +550,7 @@ Stat:📈
 | [3618-find-the-original-typed-string-ii](https://github.com/shahid200620/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/shahid200620/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/shahid200620/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3660-jump-game-ix](https://github.com/shahid200620/LeetCode/tree/master/3660-jump-game-ix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/shahid200620/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shahid200620/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shahid200620/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
