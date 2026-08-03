@@ -1,6 +1,6 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        s={}
+        s={,}
         for i in nums:
             if nums.count(i) >= k:
                 s.append(i)
