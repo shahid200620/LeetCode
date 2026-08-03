@@ -5,7 +5,7 @@ class Solution:
         for i in range(k):
             a=max(counts, key=counts.get)
             l.append(a)
-            del count(a)
+            del counts(a)
         return l
 
 # Synced seamlessly with LeetHub Pro
