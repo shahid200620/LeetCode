@@ -1,14 +1,11 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        s=[]
-        for i in nums:
-            if nums.count(i) >= k:
-                s.append(i)
+        counts=Counter(nums)
         l=[]
-        s1=set(s)
-        s2=list(s1)
-        for i in range (k):
-            l.append(s2[i])
+        for i in range(k):
+            a=max(counts, key=counts.get)
+            l.append(a)
+            del count(a)
         return l
 
 # Synced seamlessly with LeetHub Pro
