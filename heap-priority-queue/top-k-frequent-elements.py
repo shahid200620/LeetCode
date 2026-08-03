@@ -6,8 +6,9 @@ class Solution:
                 s.append(i)
         l=[]
         s1=set(s)
+        s2=list(s1)
         for i in range (k):
-            l.append(s1[i])
+            l.append(s2[i])
         return l
 
 # Synced seamlessly with LeetHub Pro
