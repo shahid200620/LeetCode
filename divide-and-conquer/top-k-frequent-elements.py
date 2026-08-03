@@ -5,9 +5,10 @@ class Solution:
             if nums.count(i) >= k:
                 s.append(i)
         l=[]
+        s1=set(s)
         for i in range (k):
-            l.append(s[i])
-        print(l)
+            l.append(s1[i])
+        return l
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
