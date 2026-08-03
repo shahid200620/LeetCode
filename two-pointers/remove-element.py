@@ -1,6 +1,6 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        return list.count(val)
+        return nums.count(val)
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
