@@ -2,7 +2,7 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         s=defaultdict(list)
         for i in strs:
-            a="".join(sorted(i))
+            a=""+=(sorted(i))
             s[a].append(i)
         return list(s.values())
 
