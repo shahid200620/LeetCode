@@ -1,10 +1,10 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         s=set(nums)
-        if nums.count() > s.count():
-            return true
+        if len(nums) > len(s)):
+            return True
         else:
-            return false
+            return False
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
