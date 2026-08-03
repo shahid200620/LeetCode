@@ -1,7 +1,6 @@
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
-        n2=nums
-        return nums+n2
+        return nums+nums
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
