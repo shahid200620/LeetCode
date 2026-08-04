@@ -5,7 +5,7 @@ class Solution:
             if nums.count(0)==1:
                 i=nums.index(0)
                 nums.remove(0)
-                nums[i]=math.prod(nums)
+                l[i]=math.prod(nums)
             return l
         a=math.prod(nums)
         return [a//i for i in nums]
