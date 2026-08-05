@@ -6,7 +6,7 @@ class Solution:
         # n.sort()
         # nums1=n
         j=0
-        for i in range(n,len(nums1)):
+        for i in range(m,len(nums1)):
             nums1[i]=nums2[j]
             j+=1
         nums1.sort()
