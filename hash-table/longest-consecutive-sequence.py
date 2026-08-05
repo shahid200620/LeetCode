@@ -4,6 +4,8 @@ class Solution:
         n.sort()
         tm=0
         m=0
+        if len(n)==0:
+            return 0
         for i in range(1,len(n)):
             if n[i-1]==n[i]-1:
                 m+=1
