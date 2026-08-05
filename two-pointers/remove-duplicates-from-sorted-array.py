@@ -5,6 +5,7 @@ class Solution:
         # for i in range(len(n)):
         #     nums[i]=n[i]
         # nums.sort()
+        nums=[i for i in n]
         return len(n)
 
 # Synced seamlessly with LeetHub Pro
