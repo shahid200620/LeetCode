@@ -3,7 +3,7 @@ class Solution:
         d={}
         for i in range(len(n)):
             if t-n[i] in d:
-                return [d[t-n[i]],i+1]
+                return ([d[t-n[i]],i+1])
             d[t-n[i]]=i+1
 
 # Synced seamlessly with LeetHub Pro
