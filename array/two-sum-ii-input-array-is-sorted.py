@@ -1,7 +1,7 @@
 class Solution:
     def twoSum(self, n: List[int], t: int) -> List[int]:
         d={}
-        for i in n:
+        for i in range(len(n)):
             if t-n[i] in d:
                 return [d[t-n[i]]+1,i+1]
             d[t-n[i]]=i
