@@ -5,7 +5,7 @@ class Solution:
             if t-n[i] in d:
                 return ([d[t-n[i]],i+1])
             else:
-                d[t-n[i]]=i+1
+                d[n[i]]=i+1
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
