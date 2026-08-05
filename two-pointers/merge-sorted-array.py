@@ -4,7 +4,7 @@ class Solution:
         # n2=[nums2[i] for i in range (n)]
         n=n1+nums2
         n.sort()
-        nums1=n
+        nums1=[nums1[i] for i in n]
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
