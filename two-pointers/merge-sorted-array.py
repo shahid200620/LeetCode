@@ -5,10 +5,10 @@ class Solution:
         # n=n1+nums2
         # n.sort()
         # nums1=n
-        j=0
+        # j=0
         for i in range(m,len(nums1)):
-            nums1[i]=nums2[j]
-            j+=1
+            nums1[i]=nums2[i-m]
+            # j+=1
         nums1.sort()
 
 # Synced seamlessly with LeetHub Pro
