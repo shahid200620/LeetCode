@@ -4,7 +4,8 @@ class Solution:
         for i in range(len(n)):
             if t-n[i] in d:
                 return ([d[t-n[i]],i+1])
-            d[t-n[i]]=i+1
+            else:
+                d[t-n[i]]=i+1
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
