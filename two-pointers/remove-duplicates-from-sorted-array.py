@@ -1,6 +1,7 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         n=set(nums)
+        nums=[[i] for i in n]
         return len(n)
 
 # Synced seamlessly with LeetHub Pro
