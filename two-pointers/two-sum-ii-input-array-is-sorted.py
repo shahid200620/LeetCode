@@ -3,8 +3,8 @@ class Solution:
         d={}
         for i in range(len(n)):
             if t-n[i] in d:
-                return [d[t-n[i]]+1,i+1]
-            d[t-n[i]]=i
+                return [d[t-n[i]],i+1]
+            d[t-n[i]]=i+1
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
