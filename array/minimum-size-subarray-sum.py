@@ -1,16 +1,29 @@
 class Solution:
-    def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-        left = 0
-        right = 0
-        sumOfCurrentWindow = 0
-        res = float('inf')
+    def minSubArrayLen(self, t: int, n: List[int]) -> int:
+        l=0
+        r=1
+        o=0
+        mo=float("inf")
+        s=n[0]+n[1]
+        n.sort()
+        if sum(n)<t:
+            return 0
+        if n[0]==t:
+            return 1
+        while l<=r and r<len(n)-1:
+            if s==t:
+                o=r-l+1
+                mo=min(o,mo)
+                r+=1
+                s+=n[r]
+            elif s > t:
+                s-=n[l]
+                l+=1
+            else :
+                r+=1
+                s+=n[r]
+        return mo
 
-        for right in range(0, len(nums)):
-            sumOfCurrentWindow += nums[right]
-
-            while sumOfCurrentWindow >= target:
-                res = min(res, right - left + 1)
-                sumOfCurrentWindow -= nums[left]
-                left += 1
-
-        return res if res != float('inf') else 0
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
