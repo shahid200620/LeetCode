@@ -6,8 +6,7 @@ class Solution:
         for i in range (n):
             if nums[i] in nums[i+1:i+k+1]:
                 return True
-        else :
-            return False
+        return False
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
