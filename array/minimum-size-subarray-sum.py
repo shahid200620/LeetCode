@@ -1,25 +1,18 @@
 class Solution:
     def minSubArrayLen(self, t: int, n: List[int]) -> int:
-        l=0
-        r=1
-        o=0
-        mo=float("inf")
-        s=n[0]+n[1]
-        n.sort()
-        if sum(n)<t:
-            return 0
-        if n[0]==t or n[1]==t:
-            return 1
-        while l<r and r<len(n)-1:
-            if s>=t:
-                o=r-l+1
-                mo=min(o,mo)
-                s-=n[l]
-                l+=1
-            else :
-                r+=1
-                s+=n[r]
-        return mo
+        l = 0
+        s = 0
+        mo = float("inf")
+
+        for r in range(len(n)):
+            s += n[r]
+
+            while s >= t:
+                mo = min(mo, r - l + 1)
+                s -= n[l]
+                l += 1
+
+        return 0 if mo == float("inf") else mo
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
