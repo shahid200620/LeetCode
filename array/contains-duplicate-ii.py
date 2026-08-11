@@ -1,11 +1,12 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
-        n=len(nums)
-        if n==len(set(nums)):
-            return False
-        for i in range (n):
-            if nums[i] in nums[i+1:i+k+1]:
+        s=set()
+        for i in range(len(nums)):
+            if nums[i] in s:
                 return True
+            s.add(nums[i])
+            if i>=k:
+                s.remove(nums[i-k])
         return False
 
 # Synced seamlessly with LeetHub Pro
