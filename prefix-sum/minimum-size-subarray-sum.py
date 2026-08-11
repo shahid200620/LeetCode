@@ -8,9 +8,9 @@ class Solution:
         n.sort()
         if sum(n)<t:
             return 0
-        if n[0]==t:
+        if n[0]==t or n[1]==t:
             return 1
-        while l<=r and r<len(n)-1:
+        while l<r and r<len(n)-1:
             if s>=t:
                 o=r-l+1
                 mo=min(o,mo)
