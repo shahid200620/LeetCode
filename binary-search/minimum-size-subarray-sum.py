@@ -11,12 +11,9 @@ class Solution:
         if n[0]==t:
             return 1
         while l<=r and r<len(n)-1:
-            if s==t:
+            if s>=t:
                 o=r-l+1
                 mo=min(o,mo)
-                r+=1
-                s+=n[r]
-            elif s > t:
                 s-=n[l]
                 l+=1
             else :
