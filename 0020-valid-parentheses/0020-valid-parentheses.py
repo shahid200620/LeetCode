@@ -1,21 +1,18 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        i=0
-        a=[]
-        for i in range(len(s)):
-            if s[i]=='('or s[i]=='['or s[i]=='{':
-                a.append(s[i])
+        hashmap = {']':'[','}':'{',')':'('}
+        stack = []
+        for c in s:
+            if c in hashmap:
+                if not stack:
+                    return False
+                if stack[-1] != hashmap[c]:
+                    return False
+                else:
+                    stack.pop()
             else:
-                if not a:
-                    return False
-                top=a.pop()
-                if s[i]==')'and top!='(':
-                    return False
-                if s[i]==']'and top!='[':
-                    return False
-                if s[i]=='}'and top!='{':
-                    return False
-        return len(a)==0
+                stack.append(c)
+        return len(stack) == 0
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
