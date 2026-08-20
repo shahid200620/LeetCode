@@ -3,7 +3,7 @@ class Solution:
         n=len(d)
         for i in range(n-1,-1,-1):
             d[i]=d[i]+1
-            if d[i]+1 < 10:
+            if d[i] < 10:
                 return d
             d[i]=0
         return [1]+d
