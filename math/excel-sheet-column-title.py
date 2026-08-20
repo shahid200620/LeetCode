@@ -4,7 +4,7 @@ class Solution:
         while c>0:
             c-=1
             rem=c%26
-            r=chr(ord(rem))+r
+            r=chr(ord("A"))+r
             c=c//26
         return r
 
