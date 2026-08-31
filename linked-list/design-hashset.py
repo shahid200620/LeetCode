@@ -1,19 +1,24 @@
 class MyHashSet:
-
     def __init__(self):
-        self.mp=defaultdict(int)
-        
+        self.size = 1000
+        self.buckets = [[] for _ in range(self.size)]
 
     def add(self, key: int) -> None:
-        self.mp[key]=True
-        
+        index = self._hash(key)
+        if key not in self.buckets[index]:
+            self.buckets[index].append(key)
 
     def remove(self, key: int) -> None:
-        self.mp[key]=False
+        index = self._hash(key)
+        if key in self.buckets[index]:
+            self.buckets[index].remove(key)
 
     def contains(self, key: int) -> bool:
-        return self.mp[key]
-        
+        index = self._hash(key)
+        return key in self.buckets[index]
+
+    def _hash(self, key: int) -> int:
+        return key % self.size
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
