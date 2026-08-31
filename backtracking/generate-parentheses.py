@@ -1,18 +1,21 @@
-def generateParenthesis(self, n: int) -> List[str]:
-	def dfs(left, right, s):
-		if len(s) == n * 2:
-			res.append(s)
-			return 
+class Solution:
+    def generateParenthesis(self, n: int) -> List[str]:
+        res = []
 
-		if left < n:
-			dfs(left + 1, right, s + '(')
+        def dfs(openP, closeP, s):
+            if openP == closeP and openP + closeP == n * 2:
+                res.append(s)
+                return
+            
+            if openP < n:
+                dfs(openP + 1, closeP, s + "(")
+            
+            if closeP < openP:
+                dfs(openP, closeP + 1, s + ")")
 
-		if right < left:
-			dfs(left, right + 1, s + ')')
+        dfs(0, 0, "")
 
-	res = []
-	dfs(0, 0, '')
-	return res
+        return res
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
