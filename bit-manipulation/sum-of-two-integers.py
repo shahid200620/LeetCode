@@ -1,15 +1,15 @@
-class Solution {
-    public int getSum(int a, int b) {
-        while (b != 0) {
-            int carry = (a & b) << 1;
-            a = a ^ b;
-            b = carry;
-        }
+class Solution:
+    def getSum(self, a: int, b: int) -> int:
+        mask = 0xFFFFFFFF
         
         
-        return a;
-    }
-}
+        while b != 0:
+            carry = (a & b) << 1
+            a = (a ^ b) & mask
+            b = carry & mask
+        
+        
+        return a if a < 0x80000000 else ~(a ^ mask)
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
