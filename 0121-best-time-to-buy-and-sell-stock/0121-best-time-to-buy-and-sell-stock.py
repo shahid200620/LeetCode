@@ -1,15 +1,11 @@
 class Solution:
     def maxProfit(self, p: List[int]) -> int:
-        min_price=p[0]
-        max_profit=0
-        profit=0
-        for i in range(len(p)):
-            if(min_price>p[i]):
-                min_price=p[i]
-            profit=p[i]-min_price
-            if max_profit<profit:
-                max_profit=profit
-        return(max_profit)
+        m = p[0]
+        ans = 0
+        for x in p:
+            m = min(m, x)
+            ans = max(ans, x-m)
+        return ans
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
